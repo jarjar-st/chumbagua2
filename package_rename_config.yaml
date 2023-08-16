@@ -1,0 +1,29 @@
+package_rename_config:
+  android:
+    app_name: chumbagua
+    package_name: com.ogilvy.chumbua
+
+  ios:
+    app_name: chumbagua
+    bundle_name: chumbagua
+    package_name: com.ogilvy.chumbua
+
+  web:
+    app_name: chumbagua
+    description: Chumbagua website
+
+  linux:
+    app_name: chumbagua
+    package_name: com.ogilvy.chumbua
+    exe_name: chumbagua-linux-x64
+
+  windows:
+    app_name: chumbagua
+    organization: OutdatedGuy
+    copyright_notice: Copyright ©️ 2023 Chumbagua.com. Todos los Derechos Reservados.
+    exe_name: chumbagua-win32
+
+  macos:
+    app_name: chumbagua
+    package_name: com.ogilvy.chumbua
+    copyright_notice: Copyright ©️ 2023 Chumbagua.com. Todos los Derechos Reservados.
